@@ -1,0 +1,25 @@
+# Database & Config
+config/dbConnect.php
+admin/dbConnect.php
+.env
+
+# Logs & Temp
+*.log
+*.tmp
+*.swp
+*.swo
+/cache/
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+Thumbs.db
+
+# OS
+.DS_Store
+.DS_Store?
+
+# Generated
+*.bak
+/assets/products/uploads/  # If you have a subfolder for dynamic uploads
